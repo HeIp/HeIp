@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 
 [![HeIp's github stats](https://github-readme-stats.vercel.app/api?username=HeIp&count_private=true&show_icons=true&theme=vue)](https://github.com/HeIp/github-readme-stats)
+<!--
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HeIp)](https://github.com/HeIp)
+-->
